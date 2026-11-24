@@ -1,16 +1,21 @@
-## Hi there 👋
+# About Me
 
-<!--
-**vjsadhwa/vjsadhwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS in Analytics student at NC State University's
+Institute for Advanced Analytics, with a background in
+Statistics and an interest in applying machine learning
+to real-world business problems.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python | SQL | R | Tableau | Power BI | SAS
+
+## Featured Projects
+
+- **RevPulse:** Airbnb Revenue Optimization
+- **Equitable Diabetes Risk Prediction**
+- **Home Depot Search Relevance & Optimization**
+
+## Areas of Interest
+
+Machine Learning | Predictive Analytics | Data Science |
+Artificial Intelligence | Business Intelligence
